@@ -11,7 +11,7 @@ const dummyData=[
 
   ]
 
- 
+
 function App() {
   
   const [expenses, setExpenses] = useState(dummyData)
